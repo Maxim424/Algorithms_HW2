@@ -1,0 +1,12 @@
+# ninja log v5
+5	215	1681045386120954356	CMakeFiles/Algorithms_HW2.dir/Utilities/string_generator.cpp.o	53969bf6178a9dd
+5	345	1681065114011989488	CMakeFiles/Algorithms_HW2.dir/main.cpp.o	28a16645c1c213a5
+6	323	1681065796060183265	CMakeFiles/Algorithms_HW2.dir/Executors/ordinary_executor.cpp.o	2fd14f16b47382b9
+323	356	1681065796094368893	Algorithms_HW2	1fe0ac360891490
+6	334	1681065114001589990	CMakeFiles/Algorithms_HW2.dir/Algorithms/naive.cpp.o	57d0da89ee0fd669
+6	315	1681068525640966722	CMakeFiles/Algorithms_HW2.dir/Algorithms/kmp.cpp.o	6c460f461fb548f9
+5	353	1681068525679850718	CMakeFiles/Algorithms_HW2.dir/Executors/ordinary_executor.cpp.o	2fd14f16b47382b9
+353	388	1681068525716721713	Algorithms_HW2	6d8ef3a4f7fd2c54
+6	263	1681068984800221372	CMakeFiles/Algorithms_HW2.dir/Algorithms/kmp.cpp.o	6c460f461fb548f9
+5	298	1681068984835486650	CMakeFiles/Algorithms_HW2.dir/Executors/ordinary_executor.cpp.o	2fd14f16b47382b9
+298	332	1681068984871510371	Algorithms_HW2	6d8ef3a4f7fd2c54
