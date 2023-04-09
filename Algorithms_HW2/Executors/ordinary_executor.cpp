@@ -53,9 +53,13 @@ void execute_kmp_brs(std::ofstream &fout, std::string &text, std::string &patter
 }
 
 void execute_ordinarily(std::ofstream &fout, std::string &text, int alphabet_size) {
+    std::cout << "Text example\n";
+    std::cout << text.substr(0, 10) << "\n";
+
     std::string file_name = "../../ordinary/219_КузнецовМВ_output_" +
             std::to_string(alphabet_size) + "_" +
             std::to_string(text.size()) + ".csv";
+    std::cout << file_name << "\n";
     fout.open(file_name, std::fstream::in | std::fstream::out | std::fstream::trunc);
     fout << ";naive;KMP-br;KMP-brs;\n";
     std::string pattern;

@@ -42,7 +42,7 @@ void kmp_brs_find(std::string &text, std::string &pattern) {
         }
         if (kol == m) {
             kol = brs[kol - 1];
-            std::cout << "[kmp_brs] Pattern found at position " << i - m + 1 << "\n";
+//            std::cout << "[kmp_brs] Pattern found at position " << i - m + 1 << "\n";
         }
     }
 }
@@ -71,7 +71,7 @@ void kmp_br_find(std::string &text, std::string &pattern) {
         }
         if (kol == m) {
             kol = br[kol - 1];
-            std::cout << "[kmp_br] Pattern found at position " << i - m + 1 << "\n";
+//            std::cout << "[kmp_br] Pattern found at position " << i - m + 1 << "\n";
         }
     }
 }

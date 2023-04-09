@@ -16,7 +16,7 @@ void naive_find(std::string &text, std::string &pattern) {
             }
         }
         if (found) {
-            std::cout << "[naive] Pattern found at position " << i << "\n";
+//            std::cout << "[naive] Pattern found at position " << i << "\n";
         }
     }
 }

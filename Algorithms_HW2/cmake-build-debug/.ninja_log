@@ -10,3 +10,15 @@
 6	263	1681068984800221372	CMakeFiles/Algorithms_HW2.dir/Algorithms/kmp.cpp.o	6c460f461fb548f9
 5	298	1681068984835486650	CMakeFiles/Algorithms_HW2.dir/Executors/ordinary_executor.cpp.o	2fd14f16b47382b9
 298	332	1681068984871510371	Algorithms_HW2	6d8ef3a4f7fd2c54
+5	285	1681069515819471266	CMakeFiles/Algorithms_HW2.dir/main.cpp.o	28a16645c1c213a5
+6	293	1681069515827777012	CMakeFiles/Algorithms_HW2.dir/Executors/ordinary_executor.cpp.o	2fd14f16b47382b9
+293	327	1681069515863088289	Algorithms_HW2	6d8ef3a4f7fd2c54
+6	249	1681069564662617169	CMakeFiles/Algorithms_HW2.dir/Algorithms/naive.cpp.o	57d0da89ee0fd669
+5	258	1681069564673359240	CMakeFiles/Algorithms_HW2.dir/Algorithms/kmp.cpp.o	6c460f461fb548f9
+258	288	1681069564704429396	Algorithms_HW2	6d8ef3a4f7fd2c54
+5	343	1681069711925217094	CMakeFiles/Algorithms_HW2.dir/Executors/ordinary_executor.cpp.o	2fd14f16b47382b9
+344	390	1681069711974540278	Algorithms_HW2	6d8ef3a4f7fd2c54
+5	305	1681069760178763041	CMakeFiles/Algorithms_HW2.dir/main.cpp.o	28a16645c1c213a5
+305	338	1681069760213300514	Algorithms_HW2	6d8ef3a4f7fd2c54
+5	308	1681069971344792755	CMakeFiles/Algorithms_HW2.dir/main.cpp.o	28a16645c1c213a5
+308	341	1681069971379114575	Algorithms_HW2	6d8ef3a4f7fd2c54
