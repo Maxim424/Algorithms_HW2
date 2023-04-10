@@ -9,7 +9,9 @@
 #include <iostream>
 #include <string>
 
-void naive_find(std::string &text, std::string &pattern);
+int naive_find(std::string &text, std::string &pattern);
+
+int naive_find_additional_char(std::string &text, std::string &pattern);
 
 
 #endif //ALGORITHMS_HW2_NAIVE_H

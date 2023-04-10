@@ -76,6 +76,12 @@ build CMakeFiles/Algorithms_HW2.dir/Algorithms/kmp.cpp.o: CXX_COMPILER__Algorith
   OBJECT_DIR = CMakeFiles/Algorithms_HW2.dir
   OBJECT_FILE_DIR = CMakeFiles/Algorithms_HW2.dir/Algorithms
 
+build CMakeFiles/Algorithms_HW2.dir/Executors/additional_char_executor.cpp.o: CXX_COMPILER__Algorithms_HW2_Debug /Users/maximkuznetsov/Documents/GitHub/Algorithms_HW2/Algorithms_HW2/Executors/additional_char_executor.cpp || cmake_object_order_depends_target_Algorithms_HW2
+  DEP_FILE = CMakeFiles/Algorithms_HW2.dir/Executors/additional_char_executor.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/Algorithms_HW2.dir
+  OBJECT_FILE_DIR = CMakeFiles/Algorithms_HW2.dir/Executors
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Algorithms_HW2
@@ -84,7 +90,7 @@ build CMakeFiles/Algorithms_HW2.dir/Algorithms/kmp.cpp.o: CXX_COMPILER__Algorith
 #############################################
 # Link the executable Algorithms_HW2
 
-build Algorithms_HW2: CXX_EXECUTABLE_LINKER__Algorithms_HW2_Debug CMakeFiles/Algorithms_HW2.dir/main.cpp.o CMakeFiles/Algorithms_HW2.dir/Executors/ordinary_executor.cpp.o CMakeFiles/Algorithms_HW2.dir/Utilities/string_generator.cpp.o CMakeFiles/Algorithms_HW2.dir/Algorithms/naive.cpp.o CMakeFiles/Algorithms_HW2.dir/Algorithms/kmp.cpp.o
+build Algorithms_HW2: CXX_EXECUTABLE_LINKER__Algorithms_HW2_Debug CMakeFiles/Algorithms_HW2.dir/main.cpp.o CMakeFiles/Algorithms_HW2.dir/Executors/ordinary_executor.cpp.o CMakeFiles/Algorithms_HW2.dir/Utilities/string_generator.cpp.o CMakeFiles/Algorithms_HW2.dir/Algorithms/naive.cpp.o CMakeFiles/Algorithms_HW2.dir/Algorithms/kmp.cpp.o CMakeFiles/Algorithms_HW2.dir/Executors/additional_char_executor.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/Algorithms_HW2.dir
   POST_BUILD = :

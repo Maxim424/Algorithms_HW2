@@ -71,4 +71,5 @@ void execute_ordinarily(std::ofstream &fout, std::string &text, int alphabet_siz
         execute_kmp_brs(fout, text, pattern);
         fout << "\n";
     }
+    fout.close();
 }
